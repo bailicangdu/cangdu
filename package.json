@@ -1,18 +1,18 @@
 {
-  "name": "node-elm",
+  "name": "cangdu",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "NODE_ENV=development supervisor --harmony index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=production pm2 start index.js --node-args='--harmony' --name 'node-elm'",
-    "stop": "NODE_ENV=production pm2 stop index.js --node-args='--harmony' --name 'node-elm'",
-    "restart": "NODE_ENV=production pm2 restart index.js --node-args='--harmony' --name 'node-elm'"
+    "start": "NODE_ENV=production pm2 start index.js --node-args='--harmony' --name 'cangdu'",
+    "stop": "NODE_ENV=production pm2 stop index.js --node-args='--harmony' --name 'cangdu'",
+    "restart": "NODE_ENV=production pm2 restart index.js --node-args='--harmony' --name 'cangdu'"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bailicangdu/node-elm"
+    "url": "https://github.com/bailicangdu/cangdu"
   },
   "author": "cangdu",
   "license": "MIT",
