@@ -1,6 +1,6 @@
 import express from 'express';
 import config from 'config-lite';
-//aaaa
+//aaaabbbbbb
 const app = express();
 app.use(express.static('./public'));
 
