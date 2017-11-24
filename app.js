@@ -1,6 +1,6 @@
 import express from 'express';
 import config from 'config-lite';
-import routes from './rotues/index'
+import routes from './rotues/index';
 const app = express();
 
 app.all('*', (req, res, next) => {
