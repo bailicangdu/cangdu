@@ -1,2 +1,2 @@
-#stop serve
+#stop serv
 npm stop
