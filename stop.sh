@@ -1,2 +1,2 @@
-#stop ser
+#stop se
 npm stop
