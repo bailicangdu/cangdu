@@ -1,2 +1,2 @@
-#stop s
+#stop 
 npm stop
