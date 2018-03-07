@@ -1,2 +1,2 @@
-#sto
+#st
 npm stop
