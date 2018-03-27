@@ -1,2 +1,2 @@
-#start serve
+#start serv
 npm start
