@@ -1,2 +1,2 @@
-#star
+#sta
 npm start
