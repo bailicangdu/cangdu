@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "NODE_ENV=development supervisor --harmony index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=production pm2 start index.js --node-args='--harmony' --name 'cangdu'",
-    "stop": "NODE_ENV=production pm2 stop index.js --node-args='--harmony' --name 'cangdu'",
-    "restart": "NODE_ENV=production pm2 restart index.js --node-args='--harmony' --name 'cangdu'"
+    "start": "NODE_ENV=production pm2 start index.js --node-args='--harmony' --name 'node-cangdu --port 8004'",
+    "stop": "NODE_ENV=production pm2 stop index.js --node-args='--harmony' --name 'node-cangdu --port 8004'",
+    "restart": "NODE_ENV=production pm2 restart index.js --node-args='--harmony' --name 'node-cangdu --port 8004'"
   },
   "repository": {
     "type": "git",

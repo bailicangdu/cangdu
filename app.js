@@ -25,4 +25,6 @@ app.use((err, req, res, next) => {
 });
 
 
-app.listen(config.port);
+app.listen(config.port, () => {
+	console.log(`成功监听端口：${config.port}`)
+});
