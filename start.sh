@@ -1,2 +1,3 @@
-#!var/bin/bash
+#!var/bin/bash 
+
 npm start
