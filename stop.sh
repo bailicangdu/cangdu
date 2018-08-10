@@ -1,2 +1,2 @@
-#!var/bash/dev #!usr/bin/env node
+#!var/bash/dev 
 npm stop
