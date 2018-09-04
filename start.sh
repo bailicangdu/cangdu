@@ -1,2 +1,2 @@
-#!var/bin/bash
+#!var/bin/bash #!usr/bin/env node
 npm start
